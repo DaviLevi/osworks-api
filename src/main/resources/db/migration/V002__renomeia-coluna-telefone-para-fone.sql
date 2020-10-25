@@ -1,0 +1,1 @@
+alter table osworks.cliente rename column telefone to fone;
